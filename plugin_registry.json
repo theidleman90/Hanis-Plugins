@@ -1,4 +1,17 @@
 {
   "registry_version": 1,
-  "plugins": []
+  "plugins": [
+    {
+      "name": "test_super_plugin",
+      "version": "1.0.0",
+      "description": "",
+      "author": "Hanis User",
+      "category": "personal",
+      "capabilities": [
+        "idempotent"
+      ],
+      "install_url": "https://github.com/theidleman90/test_super_plugin.git",
+      "status": "published"
+    }
+  ]
 }
